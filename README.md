@@ -1,2 +1,1 @@
-# Proyecto Colaborativo
-Este es un proyecto de colaboración para practicar Git.
+Esto es la parte cambiada por sergio en el readme
